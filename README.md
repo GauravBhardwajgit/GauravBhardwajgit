@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravBhardwajgit
-- 👀 I’m interested in Android Developement InternShip
+- 👀 I’m interested in Android Developement Internship
 - 🌱 I’m currently learning Android Developement Using JAVA & Kotlin
 - 💞️ I’m not looking to collaborate.
 - 📫 247,Pashu Ashpatal ka samne wali gali , PattiHulasray ,Siyana , Uttar Pradesh.
