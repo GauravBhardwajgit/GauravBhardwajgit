@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @GauravBhardwajgit
-- 👀 I’m interested in Android Developement Internship
+- 👀 I’m Founder Of Vishwakarma Technologies
 - 🌱 I’m currently learning Android Developement Using JAVA & Kotlin
 - 💞️ I’m not looking to collaborate.
 - 📫 247,Pashu Ashpatal ka samne wali gali , PattiHulasray ,Siyana , Uttar Pradesh.
- I am a Fresher Android Developer !
- I have Learnt C, C++, JAVA
+
+
+🙍| Founder @_vishwakarmatechnologies
+🔥| Business & Marketing Expert
+💵| Help Peoples To Make Brand
+♥️ | Workout & Music
+📍| Provide Services Globally
 <!---
 GauravBhardwajgit/GauravBhardwajgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
